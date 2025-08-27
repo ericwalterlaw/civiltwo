@@ -49,7 +49,7 @@ export default function WhoWeAre() {
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               When we focus on mutual success, everyone wins. Learn about our
-              culture, values, and the people who make NH Constructions a leader
+              culture, values, and the people who make Maze Engineering a leader
               in the industry.
             </p>
           </div>
@@ -67,7 +67,7 @@ export default function WhoWeAre() {
               </p>
               <p className="text-gray-600 text-lg mb-6">
                 Whether you are in the buildings, civil, or industrial market,
-                partnering with NH Constructions means you're gaining a proven,
+                partnering with Maze Engineering means you're gaining a proven,
                 reliable and trusted full-service partner with a mobile network
                 of more than 2,500 employees, experts and seasoned professionals
                 across the United States.

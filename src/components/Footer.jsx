@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Building className="h-8 w-8 text-blue-500" />
-              <span className="text-2xl font-bold text-white">NH Constructions</span>
+              <span className="text-2xl font-bold text-white">Maze Engineering</span>
             </div>
             <p className="text-gray-300 mb-4">
               Building excellence for 25 Years. 100% employee-owned construction
@@ -113,7 +113,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-600 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-gray-300 text-sm">
-            © {new Date().getFullYear()} NH Construction. All rights reserved.
+            © {new Date().getFullYear()} Maze Engineering. All rights reserved.
           </div>
           <div className="flex space-x-6 text-sm text-gray-300 mt-4 md:mt-0">
             <a href="#" className="hover:text-white transition-colors">

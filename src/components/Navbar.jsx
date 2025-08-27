@@ -45,7 +45,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-2">
             <Building className="h-8 w-8 text-[#003366]" />
-            <span className="text-2xl font-bold text-[#003366]">NH Constructions</span>
+            <span className="text-2xl font-bold text-[#003366]">Maze Engineering</span>
           </Link>
           
           {/* Desktop Navigation */}
